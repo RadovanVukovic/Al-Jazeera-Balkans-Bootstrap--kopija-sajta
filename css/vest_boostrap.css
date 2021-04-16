@@ -1,0 +1,662 @@
+*
+{
+    font-family: "Helvetica Neue LT Pro",
+"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.container-fluid
+{
+    padding: 0px;
+}
+#navGore
+{
+    background-color: #f2f2f2;
+}
+#navGornja2
+{
+    width: 100%;
+    background-color: #f2f2f2;
+}
+#navGornja
+{
+    margin: 0 auto;
+    padding: 0;
+    height: 27.8px;
+    background-color: #f2f2f2;
+}
+#navGornja ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#navGornja ul li
+{
+    float: right;
+    width: 23px;
+    text-align: center;
+    vertical-align: bottom;
+}
+#navGornja ul li a
+{
+    display: block;
+    text-decoration: none;
+    
+}
+#navGornja ul li a
+{
+    padding-top: 4px;
+    height: 18px;
+    color: #787976;
+}
+.container
+{
+    max-width: 1140px;
+}
+#logo img
+{
+    width: 64px;
+    height: 92px;
+}
+#logo
+{
+    margin-top: 10px;  
+    margin-bottom: 2px; 
+}
+#navGlavna
+{
+    float: left;
+    text-align: center;
+}
+#navGlavna ul
+{
+    list-style-type: none;
+    padding: 0;
+}
+#navGlavna ul li
+{
+    float: left;
+    height: 40px;
+    margin-right:20px;
+}
+#navGlavna ul li a
+{
+    display: block;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    padding-top: 45px;
+}
+#navGlavna ul li a:hover
+{
+    color: #cfac0e;
+}
+#navGlavna ul li a img
+{
+    float: left;
+    width: 30px;
+    height: 30px;
+}
+#nav-posebna
+{
+    background-color: #e1502d;
+}
+#slika_posebna
+{
+    margin: 10px;
+}
+#dugmePretragaNavPosebna a
+{
+    background: #f6f6f6;
+    border-radius: 50%;
+    color: #000000;
+    padding: 7px 8px 6px;
+}
+#dugmePretragaNavPosebna
+{
+    margin-top: 25px;
+}
+.fa-1x {
+    font-size: 1.5rem;
+}
+.navbar-toggler.toggler-example {
+    cursor: pointer;
+}
+#meniDugme
+{
+    color: white;
+    margin-top: 20px;
+}
+#meniBoja
+{
+    color: white;
+}
+#navpopularno
+{
+    
+    height: 10px;
+    border-top: 1px solid grey;
+    vertical-align: top;
+    padding: 2px;
+    margin: 0px;
+    margin-bottom: 10px;
+
+}
+#navpopularno ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#navpopularno ul li
+{
+    float: left;
+    width: 5.5%;
+}
+#navpopularno ul li a
+{
+    text-decoration: none;
+    font-size: 10px;
+    display: block;
+    text-align: center;
+    color: grey;
+}
+#navpopularno li h1
+{
+    font-size: 12px;
+    text-align: center;
+    margin: 0px;
+    color: grey;
+    font-weight: bold;
+}
+#divNav
+{
+    height: 80px;
+}
+#li_popularno
+{
+    margin-right: 20px;
+}
+#konteinerNav
+{
+    border-bottom: 3px solid #e1502d;;
+}
+#podeli
+{
+    width: 50px;
+}
+#podeliNaslov
+{
+    width: 50px;
+}
+#podeliNaslov h1
+{
+    color: #e1502d;
+    font-size: 14px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+#podeli ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 50px;
+}
+#podeli ul li
+{
+    width: 45px;
+    height: 45px;
+    border: 1px solid grey;
+}
+#podeli ul li a
+{
+    width: 45px;
+    display: block;
+    height: 34px;
+    text-align: center;
+    padding-top: 10px;
+    color: #4b4d49;
+}
+#leva
+{
+    padding-top: 200px;
+}
+.clanakMalaSlika
+{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+}
+.clanakMalaSlika img
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+}
+.clanakMaliTekst
+{
+    float: right;
+    padding-top: 10px;
+}
+.clanakMaliTekst p
+{
+    margin: 0;
+    font-size: 12px;
+    color: #4a4a4a;
+
+}
+.clanakMaliTekst p a
+{
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.clanakdole
+{
+    width: 30%;
+}
+#sredinaIspodSlike
+{
+    font-size: 12px;
+    color: #979797;
+    margin-top: 50px;
+}
+#sredinaVelikiTekst p
+{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#sredinaVelikiTekst h1
+{
+    font-size: 26px;
+}
+#sredinaVelikiTekst h2
+{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    font-style: italic;
+}
+#sredinaTagovi
+{
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+#sredinaTagovi h2
+{
+    font-size: 18px;
+    color: #4a4a4a;
+}
+
+#sredinaTagovi ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 5;
+}
+#sredinaTagovi ul li
+{
+    float: left;
+    height: 22px;
+    background-color: #f2f2f2;
+    width: auto;
+    margin-right: 7px;
+    padding: 0 5px;
+    margin-bottom: 5px;
+    color: #4a4a4a;
+    font-size: 14px;
+
+}
+#sredinaTagovi ul li a
+{
+    display: block;
+    text-decoration: none;
+}
+#sredinaTopic
+{
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+#sredinaTopic h2
+{
+    font-size: 18px;
+    color: #4a4a4a;
+}
+
+#sredinaTopic ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 5;
+}
+#sredinaTopic ul li
+{
+    float: left;
+    height: 22px;
+    background-color: #f2f2f2;
+    width: auto;
+    margin-right: 7px;
+    padding: 0 5px;
+    margin-bottom: 5px;
+    color: #4a4a4a;
+    font-size: 14px;
+
+}
+#sredinaTopic ul li a
+{
+    display: block;
+    text-decoration: none;
+}
+#sredinaNapomena
+{
+    padding-top: 10px;
+    margin-bottom: 50px;
+}
+#sredinaNapomena p
+{
+    font-size: 13px;
+}
+#sredina
+{
+    width: 85%;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 5px;
+    margin-left: 20px;
+    background-color: white;
+}
+#sredinaNaslov
+{
+    height: 20.8px;
+    width: 100%;
+}
+#sredinaNaslov h1
+{
+    color:#d13f16;
+    font-size: 14px;
+    font-weight: 400;
+}
+#sredinaTekst h2
+{
+    font-size: 44px;
+    margin-top: 2px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+#sredinaTekst2 p
+{
+    padding-left: 2px;
+    padding-top: 0;
+    font-size: 24px;
+    color: #8c8c8c;
+    font-style: italic;
+    margin-top: 8px;
+    font-family: Georgia;
+}
+#sredinaSlika
+{
+    width: 100%;
+    height: 320px;
+    margin-top: 6px;
+}
+#sredinaSlika img
+{
+    width: 100%;
+    height: 360px;
+}
+h1
+{
+    font-weight: bold;
+}
+@media(max-width:650px)
+{
+    .clanakdole
+    {
+        display: none;
+    }
+    #sredinaTekst h2
+    {
+        font-size: 22px;
+    }
+    h1{
+        font-size: 20px!important;
+    }
+}
+
+#desnaStranaNaslov h1
+{
+    font-size: 18px;
+    margin-bottom: 2px;
+    font-weight: normal;
+}
+#desnaStranaNaslov
+{
+    width: 100%;
+    border-bottom: 2px solid #e1502d;
+    padding-bottom: 2px;
+    margin-bottom: 20px;
+}
+.popularno
+{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+}
+#desnaStranaNaslov2 h1
+{
+    font-size: 18px;
+    font-weight: normal;
+    border-bottom: 2px solid #e1502d;
+    margin-top: 50px;
+}
+.listaBrojevi
+{
+    width: 35px;
+    height: 35px;
+    background-color: #e1502d;
+    padding: 0;
+}
+.listaBrojevi h2
+{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
+    margin-top: 10px;
+}
+.listaTekst
+{
+    float: right;
+    padding-right: 50px;
+}
+.listaTekst p
+{
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+.najnovijiDesnaVest
+{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.najnovijiDesnaVestSlika
+{
+    width: 140px;
+    height: 80px;
+}
+.najnovijiDesnaVestSlika img
+{
+    width: 100%;
+    height: 100%;
+}
+.najnovijiDesnaVestTekst
+{
+   
+    width: 100%;
+    margin-top: 10px;
+}
+.najnovijiDesnaVestTekst h2
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+#crta
+{
+    border-top: 3px solid #e1502d;
+}
+#najnovijeNaslov h1
+{
+    color: #4a4a4a;
+    font-size: 18px;
+    font-weight: normal;
+}
+#konteiner2
+{
+    background-color: #f2f2f2;
+}
+#najnovijeLeva
+{
+    width: 100%;
+    background-image: url("../images/vukovar.jpg");
+}
+#najnovijeLevaTekst
+{
+    padding-top: 160px;
+    padding-left: 7px;
+}
+#najnovijeLevaTekst h1
+{
+    font-size: 14px;
+    color: #d13f16;
+}
+#najnovijeLevaTekst h2
+{
+    font-size: 26px;
+    color: white;
+    margin: 0;
+}
+#najnovijeLevaTekst p
+{
+    font-size: 16px;
+    color: white;
+    margin-top: 7px;
+}
+#najnovijeDesna
+{
+    width: 100%;
+}
+#najnovijeMalaVest
+{
+    width: 100%;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    background-image: url("../images/programi3.png");
+    background-size: cover;
+}
+#najnovijeMalaVest2
+{
+    width: 100%;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    background-image: url("../images/sportslika2.png");
+    background-size: cover;
+}
+#najnovijeMalaVest3
+{
+    width: 100%;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    background-image: url("../images/blogslika.jpg");
+    background-size: cover;
+}
+#najnovijeMalaVest4
+{
+    width: 100%;
+    margin-bottom: 6px;
+    margin-right: 6px;
+    background-image: url("../images/blogslika2.jpg");
+    background-size: cover;
+}
+.najnovijeMalaVestTekst
+{
+    width: 100%;
+    padding-top: 65px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+.najnovijeMalaVestTekst h1
+{
+    font-size: 14px;
+    color: #d13f16;
+}
+.najnovijeMalaVestTekst h2
+{
+    font-size: 18px;
+    color: white;
+    margin: 0;
+}
+.navFuter h2
+{
+    color: #9b9b9b;
+    font-size: 18px;
+    font-weight: bold;
+}
+#konteiner6
+{
+    background-color: #222525;
+}
+#futerLinkovi a
+{
+    color: #9b9b9b;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+#futer1 h1
+{
+    font-size: 18px;
+    color: #9b9b9b;
+    font-weight: bold;
+}
+#futer2 h1
+{
+    font-size: 18px;
+    color: #9b9b9b;
+    font-weight: bold;
+}
+#futer3 h1
+{
+    font-size: 18px;
+    color: #9b9b9b;
+    font-weight: bold;
+}
+#futer1 p
+{
+    font-size: 12px;
+    color: #666;
+}
+#futer2 p
+{
+    font-size: 12px;
+    color: #666;
+}
+#futer3 p
+{
+    font-size: 12px;
+    color: #666;
+}
+#futer4 p
+{
+    font-size: 12px;
+    color: #666;
+}
+#futer4
+{
+    text-align: right;
+}
+#konteiner7
+{
+    background-color: black;
+}
